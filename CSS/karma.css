@@ -1,0 +1,10 @@
+/********** Unique to each page ***********/
+.screenShot{
+	background-image: url('Images/KarmaScrShot.png');
+	height:37.5rem;
+	width:auto;
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+}
+.pageLink{}

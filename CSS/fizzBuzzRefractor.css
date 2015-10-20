@@ -1,0 +1,21 @@
+/********** Unique to each page ***********/
+.screenShotOne{
+	background-image: url('Images/fizzBuzzRefractorScrShot.png');
+	height:37.5rem;
+	width:50%;
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+	float: left;
+}
+
+.screenShotTwo{
+	background-image: url('Images/FizzBuzzRefractorCodeScrShot.png');
+	height:37.5rem;
+	width:50%;
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+	float:right;
+}
+.pageLink{}
