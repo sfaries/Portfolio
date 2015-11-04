@@ -312,3 +312,24 @@
 	margin: .35rem 2.5rem .5rem 0;
 	display: inline-block;
 }
+
+/********** index page specific *********/
+
+.welcome  {
+	text-align: center;
+	font-family: verdana, sans-serif;
+}
+
+.bodyText h2 {
+	text-align: center;
+	padding: .5rem;
+	font-size: 1.1rem;
+	font-family: verdana, sans-serif;
+}
+
+.bodyText h3 {
+	text-align:right;
+	margin-right:3rem;
+	padding: 1rem;
+	font-family: verdana, sans-serif;
+}
