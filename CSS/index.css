@@ -1,4 +1,14 @@
+a:hover, a:visited, a:link, a:active {
+	text-decoration:none;
+	font-family: 'Roboto', sans-serif;
+	color: #838994;
+} 
 
+.home:hover, .home:visited, .home:link, .home:active {
+	text-decoration:none;
+	font-family: verdana, sans-serif;
+	color: #FFE34D;
+}
 .body {
 	background-color: transparent;
 	min-width: 1024px;
